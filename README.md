@@ -2,6 +2,17 @@
 
 A service using Rest API in Java (Quarkus)
 
+## Endpoint /api/book/v1
+Using serialized RECORD.
+
+
+## Endpoint /api/book/v2
+Using Lombok.
+
+
+## Endpoint /api/book/v3
+Using String with Jackson
+
 
 
 ## 💻 Getting started
