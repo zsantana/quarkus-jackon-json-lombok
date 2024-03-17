@@ -58,3 +58,14 @@ If you want to learn more about building native executables, please consult http
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+
+## Métricas:
+
+With Lombok:
+![image](https://github.com/zsantana/quarkus-jackon-json-lombok/assets/17239827/30a9c11b-4621-48c4-8d43-6d5409fb4d90)
+
+
+without Lombok:
+![image](https://github.com/zsantana/quarkus-jackon-json-lombok/assets/17239827/17c959c0-1222-4b6b-a1c0-21c5a229bb5f)
+
