@@ -1,0 +1,68 @@
+{
+    "bookname":"XPTO",
+    "bookRootBean":{
+        "bookItems":[
+        {
+            "name":"Book1",
+            "type":"PIC_X",
+            "size":2,
+            "value": "123"
+        },
+        {
+            "name":"Book2",
+            "type":"PIC_X",
+            "size":4,
+            "value": "123"
+        },
+        {
+            "name":"Book3",
+            "type":"PIC_X",
+            "size":6,
+            "value": "123"
+        },
+        {
+            "name":"Book4",
+            "type":"PIC_X",
+            "size":8,
+            "value": "123"
+        },
+        {
+            "name":"Book5",
+            "type":"PIC_X",
+            "size":10,
+            "value": "123"
+        },
+        {
+            "name":"Book6",
+            "type":"PIC_X",
+            "size":12,
+            "value": "123"
+        },
+        {
+            "name":"Book7",
+            "type":"PIC_X",
+            "size":14,
+            "value": "123"
+        },
+        {
+            "name":"Book8",
+            "type":"PIC_X",
+            "size":16,
+            "value": "123"
+        },
+        {
+            "name":"Book9",
+            "type":"PIC_X",
+            "size":18,
+            "value": "123"
+        },
+        {
+            "name":"Book10",
+            "type":"PIC_X",
+            "size":20,
+            "value": "123"
+        }
+        ]
+    }    
+}
+ 
